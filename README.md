@@ -9,8 +9,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/shadowystupidcoder//total) ![Contributors](https://img.shields.io/github/contributors/shadowystupidcoder/?color=dark-green) ![Forks](https://img.shields.io/github/forks/shadowystupidcoder/?style=social) ![Stargazers](https://img.shields.io/github/stars/shadowystupidcoder/?style=social) ![Issues](https://img.shields.io/github/issues/shadowystupidcoder/) ![License](https://img.shields.io/github/license/shadowystupidcoder/) 
-
 ## About The Project
 
 Welcome to Shadowystupidcoders Dumb Raydium Utilitys Demo Repo. 
@@ -43,10 +41,6 @@ Discord: shadowystupidcoder
 
 Disclaimer: These utilities are provided as is, without warranty of any kind. Use of these utilities is at your own risk. Always make sure you understand the code you're running and the transactions you're making. All of the code in this and any other of my repos is strictly for educational use only.
 
-### Creating A Pull Request
-
-
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/shadowystupidcoder//blob/main/LICENSE.md) for more information.
@@ -54,9 +48,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/shadowystupi
 ## Authors
 
 * **shadowystupidcoder** - ** - [shadowystupidcoder]() - **
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
