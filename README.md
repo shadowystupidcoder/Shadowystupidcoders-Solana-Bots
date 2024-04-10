@@ -34,7 +34,7 @@ The most lightweight efficient sniper you've ever seen (about 150 lines of code 
 
 Bundlers, jito, swap same tx init, literally everything.
 
-For a small fee, you can gain access to the full repository, which includes all the utilities and future updates plus near 24/7 support and unlimited questions. You are welcome to spam me all day and night with any Solana developer questions and I might  be able to help you with one or two of them.
+For a small one time fee (or just message me and chances are Ill just invite you anyways) you can get access to the full repo which includes all the utilities and future updates plus near 24/7 support and unlimited questions. You are welcome to spam me all day and night with any Solana developer questions and I might be able to help you with one or two of them.
 
 Discord: shadowystupidcoder
 
