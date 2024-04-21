@@ -22,7 +22,7 @@ If you are interested I've made and optimized a ton of utilities that are not pu
 (Nothing I build uses the Raydium SDK, it's all done with speed and efficiency and mostly just uses Solana web3.js. When possible I slice data down to as small as 8 bytes for things like RPC calls for balance changes etc)
 
 - Build and Raydium swaps using only Solana Web3.js
-- The most lightweight and fast new pool/token sniper ever made (under 100 lines of code!)
+- The most lightweight and fast new pool/token sniper ever made (under 150 lines of code!)
 - Jito Sniper
 - Snipe on Pool Init w/ 0 RPC calls before swap in (crazy fast, have multiple methods for this)
 - Create market for 0.3 via code
